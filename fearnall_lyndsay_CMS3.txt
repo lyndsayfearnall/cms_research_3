@@ -1,0 +1,13 @@
+Send user to edit information on first login:
+
+https://daveismyname.blog/login-and-registration-system-with-php
+
+https://www.killersites.com/community/index.php?/topic/1969-basic-php-system-vieweditdeleteadd-records/
+
+https://stackoverflow.com/questions/4267285/redirect-user-after-first-login-in-wordpress
+
+
+
+
+(I’m really sorry about this assignment… I ran out of time.)
+
